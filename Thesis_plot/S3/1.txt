@@ -1,0 +1,73 @@
+python 1_thr.py NC_15ms 7
+python 1_thr.py NC_15ms 11
+python 1_thr.py NC_15ms 15
+python 1_thr.py NC_15ms 19
+python 1_thr.py NC_15ms 23
+
+python 1_thr.py PD_15ms 7
+python 1_thr.py PD_15ms 11
+python 1_thr.py PD_15ms 15
+python 1_thr.py PD_15ms 19
+python 1_thr.py PD_15ms 23
+
+python 2_thr_settle.py NC_15ms 7
+python 2_thr_settle.py NC_15ms 11
+python 2_thr_settle.py NC_15ms 15
+python 2_thr_settle.py NC_15ms 19
+python 2_thr_settle.py NC_15ms 23
+
+python 2_thr_settle.py PD_15ms 7
+python 2_thr_settle.py PD_15ms 11
+python 2_thr_settle.py PD_15ms 15
+python 2_thr_settle.py PD_15ms 19
+python 2_thr_settle.py PD_15ms 23
+
+python 3_packet_latency.py NC_15ms 7
+python 3_packet_latency.py NC_15ms 11
+python 3_packet_latency.py NC_15ms 15
+python 3_packet_latency.py NC_15ms 19
+python 3_packet_latency.py NC_15ms 23
+
+python 3_packet_latency.py PD_15ms 7
+python 3_packet_latency.py PD_15ms 11
+python 3_packet_latency.py PD_15ms 15
+python 3_packet_latency.py PD_15ms 19
+python 3_packet_latency.py PD_15ms 23
+
+python 1_thr_8.py NC_15ms 7
+python 1_thr_8.py NC_15ms 11
+python 1_thr_8.py NC_15ms 15
+python 1_thr_8.py NC_15ms 19
+python 1_thr_8.py NC_15ms 23
+
+python 1_thr_8.py PD_15ms 7
+python 1_thr_8.py PD_15ms 11
+python 1_thr_8.py PD_15ms 15
+python 1_thr_8.py PD_15ms 19
+python 1_thr_8.py PD_15ms 23
+
+python 2_thr_settle_8.py NC_15ms 7
+python 2_thr_settle_8.py NC_15ms 11
+python 2_thr_settle_8.py NC_15ms 15
+python 2_thr_settle_8.py NC_15ms 19
+python 2_thr_settle_8.py NC_15ms 23
+
+python 2_thr_settle_8.py PD_15ms 7
+python 2_thr_settle_8.py PD_15ms 11
+python 2_thr_settle_8.py PD_15ms 15
+python 2_thr_settle_8.py PD_15ms 19
+python 2_thr_settle_8.py PD_15ms 23
+
+python 3_packet_latency_8.py NC_15ms 7
+python 3_packet_latency_8.py NC_15ms 11
+python 3_packet_latency_8.py NC_15ms 15
+python 3_packet_latency_8.py NC_15ms 19
+python 3_packet_latency_8.py NC_15ms 23
+
+python 3_packet_latency_8.py PD_15ms 7
+python 3_packet_latency_8.py PD_15ms 11
+python 3_packet_latency_8.py PD_15ms 15
+python 3_packet_latency_8.py PD_15ms 19
+python 3_packet_latency_8.py PD_15ms 23
+
+
