@@ -1,0 +1,6 @@
+=average(A:Y)
+=stdeva(A:Y)
+=average(Z:AX)
+=AY7/AY6
+=countif(A:Y,">0")
+=countif(A:Y,">20000")
