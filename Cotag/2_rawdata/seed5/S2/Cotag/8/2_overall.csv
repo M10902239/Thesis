@@ -1,0 +1,2 @@
+Time [s],User1_Tput(Mbps),User2_Tput(Mbps),User3_Tput(Mbps),User4_Tput(Mbps),User5_Tput(Mbps),User6_Tput(Mbps),User7_Tput(Mbps),User8_Tput(Mbps),Total_Tput(Mbps),STA1-SNR(dB),STA2-SNR(dB),User1_latency(µs),User2_latency(µs),User3_latency(µs),User4_latency(µs),User5_latency(µs),User6_latency(µs),User7_latency(µs),User8_latency(µs),Avg_latency(µs),
+1.4,0,0,0,0,0,0,0,0,0,16.1833,10.8819,0,0,0,0,0,0,0,0,=AVERAGE(M2:T2),
