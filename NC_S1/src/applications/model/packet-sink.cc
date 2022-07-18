@@ -235,7 +235,7 @@ void PacketSink::HandleRead (Ptr<Socket> socket)
          {
            ofstream fout;
            fout.open( "0_packet_latency.txt" ,ios::app);
-           fout << Simulator::Now ().GetSeconds ()  <<  " "  << (Simulator::Now () - tx).GetMicroSeconds() << "\n";
+           fout << Simulator::Now ().GetSeconds ()  <<  " "  << (Simulator::Now () - tx).GetMicroSeconds() << " " << std::abs(49152-(InetSocketAddress::ConvertFrom (from).GetPort ()))<< "\n";
            fout.close();
          }
 
